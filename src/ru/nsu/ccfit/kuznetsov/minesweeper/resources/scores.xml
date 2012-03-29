@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_12" class="java.beans.XMLDecoder"> 
+ <object class="java.util.LinkedList"> 
+  <void method="add"> 
+   <object class="ru.nsu.ccfit.kuznetsov.minesweeper.MineSweeperScoreEntry"> 
+    <void property="level"> 
+     <object class="ru.nsu.ccfit.kuznetsov.minesweeper.MineSweeperLevel"> 
+      <void property="height"> 
+       <int>10</int> 
+      </void> 
+      <void property="mines"> 
+       <int>9</int> 
+      </void> 
+      <void property="name"> 
+       <string>Beginner</string> 
+      </void> 
+      <void property="width"> 
+       <int>10</int> 
+      </void> 
+     </object> 
+    </void> 
+    <void property="name"> 
+     <string>Lucky one</string> 
+    </void> 
+    <void property="time"> 
+     <int>3</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="ru.nsu.ccfit.kuznetsov.minesweeper.MineSweeperScoreEntry"> 
+    <void property="flagsSet"> 
+     <int>2</int> 
+    </void> 
+    <void property="level"> 
+     <object class="ru.nsu.ccfit.kuznetsov.minesweeper.MineSweeperLevel"> 
+      <void property="height"> 
+       <int>10</int> 
+      </void> 
+      <void property="mines"> 
+       <int>9</int> 
+      </void> 
+      <void property="name"> 
+       <string>Beginner</string> 
+      </void> 
+      <void property="width"> 
+       <int>10</int> 
+      </void> 
+     </object> 
+    </void> 
+    <void property="name"> 
+     <string>Unlucky one</string> 
+    </void> 
+    <void property="time"> 
+     <int>11</int> 
+    </void> 
+   </object> 
+  </void> 
+ </object> 
+</java> 

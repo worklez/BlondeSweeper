@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_12" class="java.beans.XMLDecoder"> 
+ <object class="java.util.HashMap"> 
+  <void method="put"> 
+   <string>Expert</string> 
+   <object class="ru.nsu.ccfit.kuznetsov.minesweeper.MineSweeperLevel"> 
+    <void property="height"> 
+     <int>30</int> 
+    </void> 
+    <void property="mines"> 
+     <int>99</int> 
+    </void> 
+    <void property="name"> 
+     <string>Expert</string> 
+    </void> 
+    <void property="width"> 
+     <int>16</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="put"> 
+   <string>Intermediate</string> 
+   <object class="ru.nsu.ccfit.kuznetsov.minesweeper.MineSweeperLevel"> 
+    <void property="height"> 
+     <int>16</int> 
+    </void> 
+    <void property="mines"> 
+     <int>40</int> 
+    </void> 
+    <void property="name"> 
+     <string>Intermediate</string> 
+    </void> 
+    <void property="width"> 
+     <int>16</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="put"> 
+   <string>Beginner</string> 
+   <object class="ru.nsu.ccfit.kuznetsov.minesweeper.MineSweeperLevel"> 
+    <void property="height"> 
+     <int>10</int> 
+    </void> 
+    <void property="mines"> 
+     <int>9</int> 
+    </void> 
+    <void property="name"> 
+     <string>Beginner</string> 
+    </void> 
+    <void property="width"> 
+     <int>10</int> 
+    </void> 
+   </object> 
+  </void> 
+ </object> 
+</java>
