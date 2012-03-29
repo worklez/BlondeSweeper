@@ -12,9 +12,11 @@ UI looks weird on Mac OS X so run on GNU/Linux or Window for
 the best experience.
 
 ## Screenshots
-![Starting the game](http://github.com/worklez/BlondeSweeper/raw/master/screenshots/1.png) 
-![Playing the game](http://github.com/worklez/BlondeSweeper/raw/master/screenshots/2.png) 
-![Gameover](http://github.com/worklez/BlondeSweeper/raw/master/screenshots/2.png)
+![Starting the game](http://github.com/worklez/BlondeSweeper/raw/master/screenshots/1.png)
+
+![Playing the game](http://github.com/worklez/BlondeSweeper/raw/master/screenshots/2.png)
+
+![Gameover](http://github.com/worklez/BlondeSweeper/raw/master/screenshots/3.png)
 
 ## Download
 Use a download tab above or the [direct link to the jar](https://github.com/downloads/worklez/BlondeSweeper/BlondeSweeper.jar).
