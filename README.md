@@ -13,10 +13,11 @@ the best experience.
 
 ## Screenshots
 ![Starting the game](http://github.com/worklez/BlondeSweeper/raw/master/screenshots/1.png)
-
 ![Playing the game](http://github.com/worklez/BlondeSweeper/raw/master/screenshots/2.png)
-
 ![Gameover](http://github.com/worklez/BlondeSweeper/raw/master/screenshots/2.png)
+
+## Download
+Use a download tab above or use [direct link to the jar](https://github.com/downloads/worklez/BlondeSweeper/BlondeSweeper.jar).
 
 ## License
 Public domain. Except for pictures: they're shamelessly stolen from
